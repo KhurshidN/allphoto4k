@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_explore"
+            android:icon="@drawable/ic_drawer_explore"
+            android:visible="true"
+            android:checked="true"
+            android:title="@string/drawer_explore" />
+
+        <item
+            android:id="@+id/drawer_favorite"
+            android:visible="true"
+            android:icon="@drawable/ic_drawer_favorite"
+            android:title="@string/drawer_favorite" />
+
+    </group>
+
+    <item android:title="@string/drawer_sub_row">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/drawer_rate"
+                    android:icon="@drawable/ic_drawer_rate"
+                    android:visible="true"
+                    android:title="@string/drawer_rate" />
+
+                <item
+                    android:id="@+id/drawer_more"
+                    android:icon="@drawable/ic_drawer_more"
+                    android:visible="true"
+                    android:title="@string/drawer_more" />
+
+                <item
+                    android:id="@+id/drawer_share"
+                    android:icon="@drawable/ic_drawer_share"
+                    android:visible="true"
+                    android:title="@string/drawer_share" />
+
+                <item
+                    android:id="@+id/drawer_settings"
+                    android:icon="@drawable/ic_drawer_settings"
+                    android:visible="true"
+                    android:title="@string/drawer_settings" />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option_apply_now"
+        android:icon="@drawable/ic_apply_wallpaper"
+        android:title="@string/popup_apply_wallpaper" />
+
+    <item
+        android:id="@+id/option_crop_wallpaper"
+        android:icon="@drawable/ic_apply_crop"
+        android:title="@string/popup_crop_wallpaper" />
+
+</menu>

@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "317150365966",
+    "firebase_url": "https://allphoto-4k.firebaseio.com",
+    "project_id": "allphoto-4k",
+    "storage_bucket": "allphoto-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317150365966:android:349fd96e3c7121c7b7ef5f",
+        "android_client_info": {
+          "package_name": "com.app.allpaper4k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317150365966-8fb500l02bgqktqvci23nij3q97at98q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOpO7Agg9UEyJBLQRKJ2EmVTn_bGGZ6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317150365966-8fb500l02bgqktqvci23nij3q97at98q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9486689248960561~5400247368"
+    }
+  ],
+  "configuration_version": "1"
+}
