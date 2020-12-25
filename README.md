@@ -1,5 +1,5 @@
 # Allphoto 4k
-## This project helps
+## All dependies that we utilized.
 
  implementation 'androidx.appcompat:appcompat:1.1.0'
  
